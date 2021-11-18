@@ -1,0 +1,22 @@
+{
+  "name": "soundgrail",
+  "version": "1.0.0",
+  "description": "The SoundGrail API",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soundgrail/soundgrail.git"
+  },
+  "keywords": [
+    "soundgrail"
+  ],
+  "author": "ITW Creative Works",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soundgrail/soundgrail/issues"
+  },
+  "homepage": "https://github.com/soundgrail/soundgrail#readme"
+}
